@@ -53,7 +53,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 [EX 6.2 EDM 25004665.pdf](https://github.com/user-attachments/files/24941802/EX.6.2.EDM.25004665.pdf)
 
 
-<img width="1025" height="727" alt="Screenshot 2026-02-11 083328" src="https://github.com/user-attachments/assets/3ed6b100-eba9-45d3-a358-dc6a9171dc22" />
+<img width="1034" height="729" alt="Screenshot 2026-02-13 135218" src="https://github.com/user-attachments/assets/1d1bb3a2-3d10-457c-bd95-de15e1d1f82b" />
+
 
 
 ## RESULT:
